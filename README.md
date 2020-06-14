@@ -1,6 +1,9 @@
 # Traffic Sign Classification
- This project builds a convolution neural network (CNN) for classifying traffic signs. The German Traffic Sign Recognition Benchmark (GTSRB    ) dataset has been used for the project.
+ This project builds a convolution neural network (CNN) for classifying traffic signs. The German Traffic Sign 
+Recognition Benchmark (GTSRB    ) dataset has been used for the project.
+
                    <--- This is a work in progress... --->
+
    Following are the key steps that has been followed in this project
   
    1. Data Loading
