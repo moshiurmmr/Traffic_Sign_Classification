@@ -1,6 +1,8 @@
 # Traffic Sign Classification
  This project builds a convolution neural network (CNN) for classifying traffic signs. The German Traffic Sign 
-Recognition Benchmark (GTSRB    ) dataset has been used for the project.
+Recognition Benchmark (GTSRB) dataset has been used for the project.
+
+This repository is inspired by the Traffic Sign Classifer project of Udacity Self-Driving Car Engineer Nanodegree Program. The Traffic_Sign_Classifier.ipynb file follows the steps suggested in the project.
 
                    <--- This is a work in progress... --->
 
